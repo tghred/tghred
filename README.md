@@ -48,4 +48,32 @@
   </a>
 </div>
 
+---
+
+<div align="left">
+
+## 🚀 About Me  
+
+</div>
+
+###
+
+<img align="right" height="180" src="" alt="data gif"/>
+
+###
+
+<div align="left">
+  
+ Passionate about data and big data. My skills in data engineering, cloud architecture, and data pipelines are focused on building scalable, cost-efficient ELT/ETL data pipelines that enables accurate business intelligence and real-time decision-making
+  
+  
+ ### 📊 Data Engineering Snapshot
+
+* **🔭 Currently Working On:** Enhancing **data pipelines** and **ETL processes** within a **Big Data (Spark)** environment.
+* **🌱 Actively Learning:** Building expertise in **Streaming Data Pipelines** and **Cloud Infrastructure** for data engineering.
+* **💼 Open to Roles:** Data Engineer, ETL Developer, and Big Data Engineer positions.
+* **📫 Contact:** taghred.ashry@email.com
+
+</div>
+
 ###
