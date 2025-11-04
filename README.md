@@ -58,7 +58,6 @@
 
 ###
 
-<img align="right" height="180" src="" alt="data gif"/>
 
 ###
 
