@@ -71,7 +71,7 @@
 * **🔭 Currently Working On:** Enhancing **data pipelines** and **ETL processes** within a **Big Data (Spark)** environment.
 * **🌱 Actively Learning:** Building expertise in **Streaming Data Pipelines** and **Cloud Infrastructure** for data engineering.
 * **💼 Open to Roles:** Data Engineer, ETL Developer, and Big Data Engineer positions.
-* **📫 Contact:** taghred.ashry@email.com
+* **📫 Contact:** taghred.ashry@gmail.com
 
 </div>
 
