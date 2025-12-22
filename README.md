@@ -104,7 +104,7 @@ I'm a passionate **Data Engineer** with expertise in designing and implementing 
     <img src="https://img.shields.io/badge/IBM-Data_Engineer_Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Engineer" />
   </a>
   <a href="https://www.coursera.org/professional-certificates/meta-database-engineer" target="_blank">
-    <img src="https://img.shields.io/badge/Meta-Database_Engineer-0668E1?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Database Engineer" />
+    
   </a>
 </p>
 
