@@ -92,12 +92,7 @@ I'm a passionate **Data Engineer** with expertise in designing and implementing 
 
 👉 [View all projects on my GitHub Profile](https://github.com/tghred)
 
----
 
-### 📝 Latest Blog Posts
-* 🖋️ Building Real-time Data Pipelines with Apache Spark & Kafka
-* 🖋️ Cost Optimization Strategies for Big Data Platforms
-* 🖋️ Implementing Data Mesh: Lessons Learned
 ---
 
 ---
