@@ -38,7 +38,7 @@ I'm a passionate **Data Engineer** with expertise in designing and implementing 
 > "Turning raw data into actionable insights through elegant engineering solutions."
 
 #### 📊 Current Focus
-* 🔭 **Working on:** Building real-time data pipelines with Apache Spark & Kafka
+* 🔭 **Working on:** Building real-time data pipelines with Python, Airflow, Apache Spark & Kafka.
 * 🌱 **Learning:** Advanced streaming architectures & cloud-native data platforms
 * 💡 **Interested in:** Data mesh architecture & MLOps
 * 🎯 **Goal:** Contributing to open-source data engineering projects
