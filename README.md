@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Hey, I'm Taghred Salah Ashry
+## 👋 Hey, I'm Taghred Salah Ashry
 
-## **Data Engineer | ETL Developer | Big Data Engineer**
-### Building scalable data solutions for real-time insights
+### **Data Engineer | ETL Developer | Big Data Engineer**
+#### Building scalable data solutions for real-time insights
 
 ---
 
