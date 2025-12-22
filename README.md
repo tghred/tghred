@@ -90,7 +90,7 @@ I'm a passionate **Data Engineer** with expertise in designing and implementing 
 | **Data Warehouse Migration** | Migrating on-premise DW to cloud (Snowflake) | Snowflake, dbt, Airflow |
 
 
-👉 [View all projects on my GitHub Profile](https://github.com/taghredsalah)
+👉 [View all projects on my GitHub Profile](https://github.com/tghred)
 
 ---
 
