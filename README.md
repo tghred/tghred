@@ -2,14 +2,12 @@
 
 ## 👋 Hey, I'm Taghred Salah Ashry
 
-### **Data Engineer | ETL Developer | Big Data Engineer**
-#### Building scalable data solutions for real-time insights
+### **Data Scientist & ML Engineer | Astronomy Data Specialist**
+#### Harnessing Big Data and Machine Learning to Decode the Universe
 
 ---
 
 </div>
-
-
 
 ---
 
@@ -25,59 +23,52 @@
   <a href="https://github.com/taghredsalah" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  
-  </a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a passionate **Data Engineer** with expertise in designing and implementing scalable data pipelines and ETL/ELT processes. My focus is on building robust, cost-efficient data infrastructure that enables data-driven decision making and business intelligence.
+I'm a **Data Scientist and ML Engineer** with a solid foundation in **Data Engineering**. I bridge the gap between massive cosmic datasets and actionable scientific insights. My passion lies in applying machine learning, computer vision, and big data architectures to solve complex astronomical challenges—from classifying galaxies to processing real-time satellite and telescope telemetry.
 
-> "Turning raw data into actionable insights through elegant engineering solutions."
+> "Leveraging data engineering pipelines to build intelligent ML models that explore the cosmos."
 
-#### 📊 Current Focus
-* 🔭 **Working on:** Building real-time data pipelines with Python, Airflow, Apache Spark & Kafka.
-* 🌱 **Learning:** Advanced streaming architectures & cloud-native data platforms
-* 💡 **Interested in:** Data mesh architecture & MLOps
-* 🎯 **Goal:** Contributing to open-source data engineering projects
+#### 🌌 AstroData Focus
+* 🔭 **Working on:** Building ML models for astronomical image classification and light-curve analysis.
+* 🌱 **Learning:** Deep Learning frameworks for Astroinformatics & Advanced Cosmological Data Analysis.
+* 💡 **Interested in:** MLOps for scientific research & real-time transient astronomy pipelines.
+* 🎯 **Goal:** Contributing to open-source space science and astronomical data projects (e.g., NASA, ESA, or Rubin Observatory data).
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Programming & Query Languages**
+**Data Science & Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-**Big Data & Processing**
+**Astronomy Tools & Libraries**
+
+![Astropy](https://img.shields.io/badge/Astropy-E1523D?style=flat-square&logo=astropy&logoColor=white)
+![SQL](https://img.shields.io/badge/ADQL_/_SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Big Data & Engineering**
 
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=white)
-
-**Databases & Data Warehouses**
-
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat-square&logo=amazon-redshift&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Cloud Platforms & DevOps**
+**Cloud Platforms & MLOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
 ---
 
@@ -85,34 +76,23 @@ I'm a passionate **Data Engineer** with expertise in designing and implementing 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Real-time ETL Pipeline** | Kafka-Spark streaming pipeline for clickstream data | Spark, Kafka, Python, Airflow |
-| **Data Warehouse Migration** | Migrating on-premise DW to cloud (Snowflake) | Snowflake, dbt, Airflow |
+| **🌌 Galaxy Morphology Classifier** | Deep learning model (CNN) to classify galaxy types using SDSS/Hubble image data. | PyTorch, Python, OpenCV |
+| **☄️ Exoplanet Detection Pipeline** | Light-curve time-series analysis for transit detection using Kepler/TESS satellite data. | Astropy, Scikit-Learn, Pandas |
+| **🚀 Real-Time Telemetry Pipeline** | Scalable Kafka-Spark streaming architecture for high-frequency telescope data processing. | Spark, Kafka, Airflow, Python |
 
-
-👉 [View all projects on my GitHub Profile](https://github.com/tghred)
-
-
----
+👉 [View all projects on my GitHub Profile](https://github.com/taghredsalah)
 
 ---
 
 ### 🏆 Certifications
 
 <p align="center">
-  <a href="https://www.datacamp.com/certificate/DE0012345678" target="_blank">
-    <img src="https://img.shields.io/badge/DataCamp-Data_Engineer_Associate-05192D?style=for-the-badge&logo=datacamp&logoColor=7CFF6B" alt="DataCamp Data Engineer" />
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/DataCamp-Data_Scientist_Professional-05192D?style=for-the-badge&logo=datacamp&logoColor=7CFF6B" alt="DataCamp Data Scientist" />
   </a>
-  <a href="https://www.coursera.org/professional-certificates/ibm-data-engineer" target="_blank">
-    <img src="https://img.shields.io/badge/IBM-Data_Engineer_Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Engineer" />
-  </a>
-  <a href="https://www.coursera.org/professional-certificates/meta-database-engineer" target="_blank">
-    
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-Deep_Learning_Specialization-0056B3?style=for-the-badge&logo=coursera&logoColor=white" alt="Deep Learning Specialization" />
   </a>
 </p>
 
 ---
-
-
----
-
-
