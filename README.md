@@ -2,7 +2,7 @@
 
 ## 👋 Hey, I'm Taghred Salah Ashry
 
-### **Data Scientist & ML Engineer | Astronomy Data Specialist**
+### **Data Scientist & Physicist | Python, SQL, Machine Learning | Scientific Data & Analytics | Data Engineering Foundations**
 #### Harnessing Big Data and Machine Learning to Decode the Universe
 
 ---
