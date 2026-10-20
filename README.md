@@ -33,9 +33,9 @@ I see science as a visual and cognitive language one that needs engineering prec
 
 With a background in **physics and data science** , I use **Python** , **SQL** , **statistics** , and **ML** to turn complex scientific data into **clear models** , **visual insights** , and **accessible stories** . My focus is scientific data analysis, data storytelling, and building reproducible workflows with a growing foundation in **data engineering** .
 
-I’m building a portfolio at the intersection of data science, physics, and scientific communication, and I’m open to junior roles in data science, analytics, scientific data, or data engineering foundations.
+I’m building a portfolio at the intersection of **data science** , **physics** , and **scientific communication** , and I’m open to **junior roles** in **data science** , **scientific data** , or **data engineering foundations**.
 
-Let’s connect if you work on scientific data, analytics, or projects where precision and clear storytelling matter.
+**Let’s connect if you work on scientific data, analytics, or projects where precision and clear storytelling matter.**
 
 
 #### 🌌 AstroData Focus
