@@ -29,9 +29,14 @@
 
 ### 🚀 About Me
 
-I'm a **Data Scientist and ML Engineer** with a solid foundation in **Data Engineering**. I bridge the gap between massive cosmic datasets and actionable scientific insights. My passion lies in applying machine learning, computer vision, and big data architectures to solve complex astronomical challenges—from classifying galaxies to processing real-time satellite and telescope telemetry.
+I see science as a visual and cognitive language — one that needs engineering precision and artistic intuition to decode.
 
-> "Leveraging data engineering pipelines to build intelligent ML models that explore the cosmos."
+With a background in physics and data science, I use Python, SQL, statistics, and ML to turn complex scientific data into clear models, visual insights, and accessible stories. My focus is scientific data analysis, data storytelling, and building reproducible workflows with a growing foundation in data engineering.
+
+I’m building a portfolio at the intersection of data science, physics, and scientific communication, and I’m open to junior roles in data science, analytics, scientific data, or data engineering foundations.
+
+Let’s connect if you work on scientific data, analytics, or projects where precision and clear storytelling matter.
+
 
 #### 🌌 AstroData Focus
 * 🔭 **Working on:** Building ML models for astronomical image classification and light-curve analysis.
