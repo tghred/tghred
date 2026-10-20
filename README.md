@@ -35,7 +35,7 @@ With a background in **physics and data science** , I use **Python** , **SQL** ,
 
 I’m building a portfolio at the intersection of **data science** , **physics** , and **scientific communication** , and I’m open to **junior roles** in **data science** , **scientific data** , or **data engineering foundations**.
 
-**Let’s connect if you work on scientific data, analytics, or projects where precision and clear storytelling matter.**
+🔸️ **Let’s connect if you work on scientific data, analytics, or projects where precision and clear storytelling matter.**
 
 
 #### 🌌 AstroData Focus
